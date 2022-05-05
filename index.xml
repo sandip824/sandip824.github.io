@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Portfolio : Machine Learning Engineer on sandip patil</title>
+    <link>https://sandip824.github.io/</link>
+    <description>Recent content in My Portfolio : Machine Learning Engineer on sandip patil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Feb 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://sandip824.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Front Collision Warning System using TFOD 2.0</title>
+      <link>https://sandip824.github.io/post/project-4/</link>
+      <pubDate>Mon, 21 Feb 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://sandip824.github.io/post/project-4/</guid>
+      <description>Aim of this work is to impalement a front collision warning system , using TensorFlow object detection API. Front Collision Warning(FCW) system is an ADAS(Advance Driver Assistance System). With the current advancements in the area of computer vision. we have efficient object detection APIs available as open source. This work is for just to demonstrate the ability of object detection to be used in FCW feature in ADAS systems.  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Marathi Devanagari Numbers classifier</title>
+      <link>https://sandip824.github.io/post/project-2/</link>
+      <pubDate>Sun, 29 Aug 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://sandip824.github.io/post/project-2/</guid>
+      <description>The idea behind this project was to develop a ML Model which predicts number and alphabets from Marathi language. This project was implemented end to end right from data collection to model training and model deployment. For collecting tho data I developed a small toll using python tkinter. The model was train ed on a CNN using TensorFlow. After successfully training and having accuracy above 90 percent I deployed the model using tkinter app.</description>
+    </item>
+    
+    <item>
+      <title>Speed Bump Detection and Distance Estimation Using GANs</title>
+      <link>https://sandip824.github.io/post/project-3/</link>
+      <pubDate>Tue, 21 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://sandip824.github.io/post/project-3/</guid>
+      <description>The intervention of AI technology and self-driving vehicles changed the transportation systems. The current self-driving vehicles demands reliable and accurate information from various functional modules. One of the major module accommodated in vehicles is object detection and classification. In this paper a speed bump detection approach is developed for slow moving electric vehicle platform. The developed system uses monocular images as input and segment the speed bump using GAN network. The results obtained by new approach shows the GAN network is capable of segmenting various types of speed bumps with good accuracy.</description>
+    </item>
+    
+    <item>
+      <title>song popularity prediction</title>
+      <link>https://sandip824.github.io/post/project-5/</link>
+      <pubDate>Fri, 25 Oct 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://sandip824.github.io/post/project-5/</guid>
+      <description>This was a kaggle competition i was participated in, the challenge was to use the song features data-set and predict the popularity possibility. This was a simple binary classification problem. I was able to complete the EDA with some feature engineering on the data-set. After completing this project i was able to understand the various techniques used in EDA and feature engineering.
+ Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Lane and Vehicle Detection for Driver Assistance</title>
+      <link>https://sandip824.github.io/post/project-1/</link>
+      <pubDate>Wed, 25 Sep 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://sandip824.github.io/post/project-1/</guid>
+      <description>This project is implimented with “Open Source Computer Vision Library”, the OpenCV. The aim was to impliment real time simple lane detection and vehicle detection system with OpenCv Python. The lane detection system is a very basic yet very important system when we talk about driver assistance systems or self driving cars. Since 1990s threr have been lot of work done on lane detction systems for various road conditions. like urban and rural roads,highways etc.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sandip824.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandip824.github.io/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     Website: https://sandip824.github.io/   LinkedIn: https://www.linkedin.com/in/sandip-patil-a71165a4/   GitHub: https://github.com/sandip824   Kaggle: https://www.kaggle.com/sandip824    </description>
+    </item>
+    
+  </channel>
+</rss>
